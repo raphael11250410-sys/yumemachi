@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/01_syoutengai.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_smile.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_normal.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_ikari.png"  ]
+[return]

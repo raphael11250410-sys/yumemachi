@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/07_shosai.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_kanshin.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_cold.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_normal.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_sune.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_konwaku.png"  ]
+[return]

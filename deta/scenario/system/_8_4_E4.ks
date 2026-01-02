@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/03_gishiki.png"  ]
+[preload  storage="./data/fgimage/chara/5/soma_chill.png"  ]
+[preload  storage="./data/bgimage/09_tokai.jpg"  ]
+[preload  storage="./data/bgimage/1701.png"  ]
+[return]
