@@ -1,7 +1,10 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>ゲーム</title>
-</head>
-<body>
+(function () {
+  const PASSWORD = "himitsu";
+
+  const input = prompt("パスワードを入力してください");
+
+  if (input !== PASSWORD) {
+    alert("パスワードが違います");
+    location.href = "https://www.google.com/";
+  }
+})();
