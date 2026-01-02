@@ -1,5 +1,3 @@
-document.write('<script src="../auth.js"></script>');
-
 function object(o) {
     var f = object.f,
         i,
