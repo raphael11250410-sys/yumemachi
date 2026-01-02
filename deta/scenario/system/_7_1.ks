@@ -1,5 +1,0 @@
-[preload  storage="./data/bgimage/03_hondou1.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_magao.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_normal.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_chill.png"  ]
-[return]

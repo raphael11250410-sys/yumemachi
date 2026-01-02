@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/02_living.jpg"  ]
-[preload  storage="./data/fgimage/chara/5/soma_magao.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_chill.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_chill2.png"  ]
-[preload  storage="./data/fgimage/chara/5/soma_smail1.png"  ]
-[return]
