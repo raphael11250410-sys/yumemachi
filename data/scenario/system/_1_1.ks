@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/01_basutei.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_odoroki2.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_normal.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_sune.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_smile.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_odoroki.png"  ]
+[preload  storage="./data/fgimage/chara/1/nagisa_chill.png"  ]
+[return]

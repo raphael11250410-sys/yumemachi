@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/05_izakaya.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/taiyou_normal.png"  ]
+[preload  storage="./data/fgimage/chara/3/taiyou_smail.png"  ]
+[preload  storage="./data/fgimage/chara/3/taiyou_smail2.png"  ]
+[preload  storage="./data/fgimage/chara/3/taiyou_ikari.png"  ]
+[return]

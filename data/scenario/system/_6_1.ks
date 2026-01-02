@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/01_michi2.png"  ]
+[preload  storage="./data/bgimage/07_gaikan.jpg"  ]
+[preload  storage="./data/bgimage/07_genkan.jpg"  ]
+[preload  storage="./data/bgimage/07_shosai.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_sune.png"  ]
+[preload  storage="./data/fgimage/chara/9/rika_normal.png"  ]
+[return]

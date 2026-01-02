@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/01_syoutengai.png"  ]
+[preload  storage="./data/bgimage/05_uoya.jpg"  ]
+[preload  storage="./data/bgimage/05_yaoya.png"  ]
+[preload  storage="./data/bgimage/01_michi1.jpg"  ]
+[return]
