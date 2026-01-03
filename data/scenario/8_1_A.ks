@@ -144,4 +144,5 @@
 [stopbgm  time="3000"  fadeout="true"  ]
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [tb_hide_message_window  ]
+[jump  storage="8_2_A.ks"  target=""  ]
 [s  ]
